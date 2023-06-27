@@ -20,6 +20,7 @@ import {
     tesla,
     shopify,
     mgbw,
+    ecu,
     carrent,
     jobit,
     tripguide,
@@ -127,7 +128,7 @@ import {
     {
       title: "Computer Science Undergrad",
       company_name: "East Carolina University",
-      icon: tesla,
+      icon: ecu,
       iconBg: "#E6DEDD",
       date: "Aug 2020 - May 2023",
       points: [

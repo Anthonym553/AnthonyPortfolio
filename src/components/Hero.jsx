@@ -16,7 +16,7 @@ const Hero = () => {
           </div>
 
           <div>
-            <h1 className={`${styles.heroHeadText} text-white flex items-center`}>Hi, I'm <span className="text-[#915eff]">Anthony</span>
+            <h1 className={`${styles.heroHeadText} text-white flex items-center`}>Hi, I'm &nbsp;<span className="text-[#915eff]">Anthony</span>
             <div className="w-20 h-20 rounded-full overflow-hidden ml-4">
               <img src={myPortrait} alt="Profile" className="object-cover w-full h-full" />
             </div>

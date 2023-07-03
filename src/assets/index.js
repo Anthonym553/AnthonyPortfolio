@@ -26,6 +26,8 @@ import java from "./tech/java.png";
 import cpp from "./tech/cpp.png";
 import postgresql from "./tech/postgresql.png";
 
+import nickportrait from "./portraits/nickportrait.png";
+
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
@@ -73,4 +75,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  nickportrait,
 };

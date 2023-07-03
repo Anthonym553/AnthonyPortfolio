@@ -29,6 +29,7 @@ import {
     jobit,
     tripguide,
     threejs,
+    nickportrait,
   } from "../assets";
   
   export const navLinks = [
@@ -179,11 +180,11 @@ import {
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-      name: "Lisa Wang",
-      designation: "CTO",
-      company: "456 Enterprises",
-      image: "https://randomuser.me/api/portraits/women/6.jpg",
+        "Anthony is so easy to get along with. He understood exactly what we needed and how to get it done.",
+      name: "Nick Terrell",
+      designation: "Digital Platforms",
+      company: "Coastal Credit Union",
+      image: nickportrait,
     },
   ];
   

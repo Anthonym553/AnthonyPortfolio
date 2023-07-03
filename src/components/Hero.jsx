@@ -1,5 +1,7 @@
 import { motion } from 'framer-motion';
 
+import { myPortrait } from '../assets';
+
 import { styles } from '../styles';
 import { ComputersCanvas } from './canvas';
 
@@ -14,7 +16,11 @@ const Hero = () => {
           </div>
 
           <div>
-            <h1 className={`${styles.heroHeadText} text-white`}>Hi, I'm <span className="text-[#915eff]">Anthony</span></h1>
+            <h1 className={`${styles.heroHeadText} text-white flex items-center`}>Hi, I'm <span className="text-[#915eff]">Anthony</span>
+            <div className="w-20 h-20 rounded-full overflow-hidden ml-4">
+              <img src={myPortrait} alt="Profile" className="object-cover w-full h-full" />
+            </div>
+            </h1>
             <p className={`${styles.heroSubText} mt-2 text-white-100`}>
               I'm am a recent graduate seeking opportunity in frontend and/or backend roles.
             </p>

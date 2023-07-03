@@ -27,6 +27,7 @@ import cpp from "./tech/cpp.png";
 import postgresql from "./tech/postgresql.png";
 
 import nickportrait from "./portraits/nickportrait.png";
+import myPortrait from "./portraits/myPortrait.jpg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -38,6 +39,8 @@ import ecu from "./company/ecu.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import piknic from "./piknic.jpg"
+import oneManArmy from "./oneManArmy.png"
 
 export {
   AntLogo,
@@ -75,5 +78,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  piknic,
+  oneManArmy,
   nickportrait,
+  myPortrait,
 };

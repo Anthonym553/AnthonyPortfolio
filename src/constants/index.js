@@ -28,6 +28,8 @@ import {
     carrent,
     jobit,
     tripguide,
+    piknic,
+    oneManArmy,
     threejs,
     nickportrait,
   } from "../assets";
@@ -190,67 +192,46 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Piknic",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Web application that enables users to search for local restaurants based on a crave or cuisine.",
       tags: [
         {
-          name: "react",
+          name: "FastAPI",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "HTML/CSS",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "MapBox API",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: piknic,
+      source_code_link: "https://github.com/Anthonym553/Piknic/tree/main/placeholder",
     },
     {
-      name: "Job IT",
+      name: "One Man Army",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "The One Man Army mobile application provides a platform for small business owners to display their expertise and advertise their services. Additionally, it enables individuals who lack certain skill sets to locate competent professionals and outsource work to them.",
       tags: [
         {
-          name: "react",
+          name: "Android Studio",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "Kotlin",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "Firebase",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
-    },
-    {
-      name: "Trip Guide",
-      description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-      tags: [
-        {
-          name: "nextjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "supabase",
-          color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: oneManArmy,
+      source_code_link: "https://github.com/Anthonym553/BusinessProprietorApp",
     },
   ];
   

@@ -166,7 +166,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "Placeholder: I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
@@ -174,7 +174,7 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+        "Placeholder: I've never met a web developer who truly cares about their clients' success like Rick does.",
       name: "Chris Brown",
       designation: "COO",
       company: "DEF Corp",

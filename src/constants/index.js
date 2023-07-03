@@ -15,6 +15,10 @@ import {
     git,
     figma,
     docker,
+    python,
+    java,
+    cpp,
+    postgresql,
     meta,
     starbucks,
     tesla,
@@ -59,6 +63,18 @@ import {
   
   const technologies = [
     {
+      name: "C++",
+      icon: cpp,
+    },
+    {
+      name: "Java",
+      icon: java,
+    },
+    {
+      name: "Python",
+      icon: python,
+    },
+    {
       name: "HTML 5",
       icon: html,
     },
@@ -79,6 +95,10 @@ import {
       icon: reactjs,
     },
     {
+      name: "Three JS",
+      icon: threejs,
+    },
+    {
       name: "Redux Toolkit",
       icon: redux,
     },
@@ -95,8 +115,8 @@ import {
       icon: mongodb,
     },
     {
-      name: "Three JS",
-      icon: threejs,
+      name: "PostgreSQL",
+      icon: postgresql,
     },
     {
       name: "git",

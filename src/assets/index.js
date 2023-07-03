@@ -20,7 +20,11 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import threejs from "./tech/threejs.png";
+import python from "./tech/pythonlogo.png";
+import java from "./tech/java.png";
+import cpp from "./tech/cpp.png";
+import postgresql from "./tech/postgresql.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -56,6 +60,10 @@ export {
   tailwind,
   typescript,
   threejs,
+  python,
+  java,
+  cpp,
+  postgresql,
   meta,
   shopify,
   starbucks,

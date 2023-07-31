@@ -166,22 +166,6 @@ import {
   const testimonials = [
     {
       testimonial:
-        "Placeholder: I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-      name: "Sara Lee",
-      designation: "CFO",
-      company: "Acme Co",
-      image: "https://randomuser.me/api/portraits/women/4.jpg",
-    },
-    {
-      testimonial:
-        "Placeholder: I've never met a web developer who truly cares about their clients' success like Rick does.",
-      name: "Chris Brown",
-      designation: "COO",
-      company: "DEF Corp",
-      image: "https://randomuser.me/api/portraits/men/5.jpg",
-    },
-    {
-      testimonial:
         "Anthony is so easy to get along with. He understood exactly what we needed and how to get it done.",
       name: "Nick Terrell",
       designation: "Digital Platforms",
